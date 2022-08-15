@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "react-dirty-arch": "apps/react-dirty-arch",
+    "react-dirty-arch-e2e": "apps/react-dirty-arch-e2e",
+    "ui": "libs/ui"
+  }
+}
